@@ -1,9 +1,9 @@
-import LoginForm from "./components/Login/page";
+import LoginForm from "./components/login/Login";
 
-const Home = async () => {
+const Home = () => {
   return (
     <main>
-      <LoginForm />
+      <LoginForm /> 
     </main>
   );
 };
