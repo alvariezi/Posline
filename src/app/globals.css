@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* src/
+├── app/
+│   ├── page.js        
+│   ├── components/ 
+│   │   ├── Login/     
+
+│   │   │   │├──page.jsx
+│   │   ├── Register/     
+
+│   │   │   │├──page.jsx */
