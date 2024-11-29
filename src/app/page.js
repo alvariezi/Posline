@@ -1,9 +1,9 @@
-import HomePage from "./components/HomePage";
+import LoginForm from "./components/Login/page";
 
 const Home = async () => {
   return (
     <main>
-      <HomePage />
+      <LoginForm />
     </main>
   );
 };
