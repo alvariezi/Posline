@@ -64,9 +64,9 @@ const LoginForm = () => {
               className="absolute inset-y-0 right-0 flex items-center pr-3"
             >
               {showPassword ? (
-                <EyeSlashIcon className="h-5 w-5 text-gray-500" />
+                <EyeSlashIcon className="h-5 w-5 text-[#090A0A]" />
               ) : (
-                <EyeIcon className="h-5 w-5 text-gray-500" />
+                <EyeIcon className="h-5 w-5 text-[#090A0A]" />
               )}
             </button>
           </div>
